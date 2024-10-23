@@ -1,11 +1,18 @@
 {
   "scripts": {
-    "dev": "nodemon main.js"
+    "dev": "nodemon main.js",
+    "lab1": "nodemon ./src/lab1.js"
   },
   "devDependencies": {
-    "nodemon": "^3.0.1"
+    "nodemon": "^3.1.7"
   },
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "name": "lab-intro-nodejs-expressjs-2-theolg29",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
